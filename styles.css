@@ -48,10 +48,21 @@ a{
 .header{
     display: flex;
     justify-content: space-between;
+    padding: 10px 15px 10px 15px;
+    align-items: center;
+}
+
+/* Footer */
+
+.footer{
+    display: flex;
+    justify-content: space-between;
     background-color: #eeeeee;
     padding: 10px 15px 10px 15px;
     align-items: center;
 }
+
+/* Links */
 
 .left-links{
     display: flex;
